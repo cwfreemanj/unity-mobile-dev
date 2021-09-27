@@ -1,0 +1,23 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class TouchButton : MonoBehaviour
+{
+    void OnTouchDown()
+    {
+   
+    }
+    void OnTouchUp()
+    {
+        
+    }
+    void OnTouchStay(Vector3 point)
+    {
+       
+    }
+    void OnTouchExit()
+    {
+
+    }
+}
